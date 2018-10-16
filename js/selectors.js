@@ -11,3 +11,7 @@ function paragraphSelector(){
      return $('#baby-ninja');
    }
    
+   function ninjaBabySelector(){
+     return $('#baby-ninja');
+   }
+   

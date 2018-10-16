@@ -4,10 +4,10 @@ function paragraphSelector(){
     }
     
    function lastImageSelector(){
-     return $('.pics #pic-list:last img')
+     return $('.pics #pic-list:last img');
    }
    
    function ninjaBabySelector(){
-     return $('#baby-ninja')
+     return $('#baby-ninja');
    }
    

@@ -15,7 +15,7 @@ function paragraphSelector(){
      return $('.pics');
    }
    function firstListItem(){
-     return $('.pics ');
+     return $('.pics pic-list: ');
    }
    
    

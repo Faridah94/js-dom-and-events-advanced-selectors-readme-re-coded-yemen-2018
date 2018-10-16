@@ -11,7 +11,7 @@ function paragraphSelector(){
      return $('#baby-ninja');
    }
    
-   function ninjaBabySelector(){
+   function divSelector(){
      return $('#baby-ninja');
    }
    

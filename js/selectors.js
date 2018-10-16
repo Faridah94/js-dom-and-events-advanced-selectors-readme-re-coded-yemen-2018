@@ -14,4 +14,8 @@ function paragraphSelector(){
    function divSelector(){
      return $('.pics');
    }
+   function divSelector(){
+     return $('.pics');
+   }
+   
    
